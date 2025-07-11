@@ -1,7 +1,7 @@
 # Java_Tindbot
 TG_Tinder_bot is a fun Telegram bot created during a Java coding marathon. It's like dating meets GPT! 
 <br>
-**With this bot, you can:**
+## With this bot, you can:
 <br>
 📝 Create a personalized Tinder-style profile using GPT
 <br>
